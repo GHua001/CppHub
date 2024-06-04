@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Download\\Github\\CppHub\\C\\C\u7684\u57FA\u7840\u8BED\u6CD5\\01-C\u8BED\u8A00\u5165\u95E8\\\u4EE3\u7801\\01_hello_world\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07560C6C-5729-4A35-B81E-E7CAEC324272}|01_hello_world\\01_hello_world.vcxproj|D:\\Download\\Github\\CppHub\\C\\C\u7684\u57FA\u7840\u8BED\u6CD5\\01-C\u8BED\u8A00\u5165\u95E8\\\u4EE3\u7801\\01_hello_world\\01_hello_world\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07560C6C-5729-4A35-B81E-E7CAEC324272}|01_hello_world\\01_hello_world.vcxproj|solutionrelative:01_hello_world\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.c",
+              "DocumentMoniker": "D:\\Download\\Github\\CppHub\\C\\C\u7684\u57FA\u7840\u8BED\u6CD5\\01-C\u8BED\u8A00\u5165\u95E8\\\u4EE3\u7801\\01_hello_world\\01_hello_world\\FileName.c",
+              "RelativeDocumentMoniker": "01_hello_world\\FileName.c",
+              "ToolTip": "D:\\Download\\Github\\CppHub\\C\\C\u7684\u57FA\u7840\u8BED\u6CD5\\01-C\u8BED\u8A00\u5165\u95E8\\\u4EE3\u7801\\01_hello_world\\01_hello_world\\FileName.c",
+              "RelativeToolTip": "01_hello_world\\FileName.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-03T05:22:49.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
